@@ -11,4 +11,5 @@ public class UserController {
     public String getHello () {
         return "Hello Around Hub Studio!";
     }
+
 }
